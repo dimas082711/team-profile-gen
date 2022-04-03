@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dimas082711/team-profile-gen#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2"
   }
 }
