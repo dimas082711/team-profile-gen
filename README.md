@@ -25,6 +25,6 @@
 * WHEN I decide to finish building my team
 * THEN I exit the application, and the HTML is generated
 
-[Link To Video shows how it works](https://drive.google.com/file/d/1jA7HLQuLsCV3LGUv1ft3JSKkAd4uy2Ui/view)
+[Link To Video shows how it works](https://drive.google.com/file/d/1optSJGjvQAAnLU4PUdl4rL3bQlH4u6Xf/view)
 
 ![ALT TXT](<https://i.ibb.co/j5qs4qP/teamprfl.png)
