@@ -174,7 +174,7 @@ const internInfo = () => {
         },
         {
             type: 'input',
-            name: 'school',
+            name: 'work',
             message: "Intern Work Name",
             validate: nameInput => {
                 if (nameInput) {
