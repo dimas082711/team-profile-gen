@@ -27,4 +27,4 @@
 
 [Link To Video shows how it works](https://drive.google.com/file/d/1optSJGjvQAAnLU4PUdl4rL3bQlH4u6Xf/view)
 
-![ALT TXT](<https://i.ibb.co/j5qs4qP/teamprfl.png)
+![ALT TXT](https://i.ibb.co/j5qs4qP/teamprfl.png)
